@@ -237,7 +237,7 @@ body {
   grid-template-columns: repeat(3, 4fr);
   grid-gap: 3vmin;
   width: 95%;
-  max-width: 80vh; /*old 450px*/
+  max-width: 110vh; /*old 450px*/
 }
 
 .options > div {

@@ -18,7 +18,7 @@ dataSet[dataSetVersion].characterData = [
   { name: "IV - Regard de la Vierge", img: "https://i.imgur.com/hxNz6hR.jpg" },
   { name: "V - Regard du Fils sur le Fils", img: "https://i.imgur.com/IRTeoMi.jpg" },
   { name: "VI - Par Lui tout a été fait", img: "https://i.imgur.com/7g6Po9a.jpg" },
-  { name: "VII Regard de la Croix", img: "https://i.imgur.com/paqi1ZW.jpg" },
+  { name: "VII - Regard de la Croix", img: "https://i.imgur.com/paqi1ZW.jpg" },
   { name: "VIII - Regard des hauteurs", img: "https://i.imgur.com/tZZTnp8.jpg" },
   { name: "IX - Regard du temps", img: "https://i.imgur.com/CKb6AAg.jpg" },
   { name: "X - Regard de l'Esprit de joie", img: "https://i.imgur.com/tNwrVuw.jpg" },
